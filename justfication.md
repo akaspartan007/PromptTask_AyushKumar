@@ -6,9 +6,6 @@
 
 This document evaluates and compares two LLM-generated responses produced for the same coding prompt:
 
-**Prompt:**  
-ARS Solutions India – Smart IT Product Discovery & Quote Management System
-
 The evaluation compares:
 
 # Response A
