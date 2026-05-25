@@ -1005,7 +1005,7 @@ Several thoughtful implementations:
 
 # Likert Score
 
-**Likert Score: 7 / 7**
+**Likert Score: 7**
 
 Response B demonstrates noticeably stronger implementation quality and closer adherence to prompt requirements.
 
